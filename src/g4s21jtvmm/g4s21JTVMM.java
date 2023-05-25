@@ -8,7 +8,7 @@ package g4s21jtvmm;
  *
  * @author shack
  */
-public class G4s21practica10jtableARMM {
+public class g4s21JTVMM {
 
     /**
      * @param args the command line arguments
